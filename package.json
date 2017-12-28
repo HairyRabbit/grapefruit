@@ -1,0 +1,27 @@
+{
+  "name": "grapefruit",
+  "version": "1.0.0",
+  "description": "WIP",
+  "main": "index.js",
+  "scripts": {
+    "start": "node -r @std/esm scripts/server.js"
+  },
+  "repository": "git+https://github.com/HairyRabbit/grapefruit.git",
+  "keywords": [],
+  "author": "yuffiy <yfhj1990@hotmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HairyRabbit/grapefruit/issues"
+  },
+  "homepage": "https://github.com/HairyRabbit/grapefruit#readme",
+  "devDependencies": {
+    "@std/esm": "^0.18.0",
+    "webpack": "^4.0.0-alpha.2",
+    "webpack-cli": "^2.0.1"
+  },
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  },
+  "@std/esm": "cjs"
+}
